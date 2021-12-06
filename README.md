@@ -21,6 +21,7 @@
 1-Parent is updated by Child using @Output
 2-It is used if parent-child hierarchy is small.
 3- Notifies the parent component about the changes.
+
 @OUTPUT AND @EventEmitter go together
 1-the parent is notified by this.
 2- is used to emit the data frommchild to parent component.
